@@ -1,4 +1,8 @@
 # SimpleReactTodo
+npm i client/server
+npm start client/server
+Done!
+
 ![2022-04-13_19-26](https://user-images.githubusercontent.com/95096983/163256204-0122ea02-38ac-482f-98e3-97bdf4b82250.png)
 <br>
 ![2022-04-13_19-27](https://user-images.githubusercontent.com/95096983/163256220-64737879-dd6d-43f0-a8f2-f0b86cf7bbc4.png)
